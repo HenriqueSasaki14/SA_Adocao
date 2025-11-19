@@ -193,6 +193,14 @@ body {
     margin-bottom: 8px;
 }
 
+.adopt {
+    width: 200px;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(1, 6, 80, 0.822);
+    border-radius: 10px;
+}
+
 /* ===== adaptividade simples ===== */
 @media (max-width: 700px) {
     .Titulo_pequeno {
